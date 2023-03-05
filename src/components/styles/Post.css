@@ -1,0 +1,69 @@
+
+*{
+    border-radius: 1rem;
+    font-family: 'inter', sans-serif;
+  
+}
+
+
+
+.cities {
+    display: flex;
+    flex-direction: row;
+    height: 14rem;
+    justify-content: center;
+    margin-top: 1.5rem;    
+    margin-bottom: 6rem;
+   
+    
+    
+}
+
+.pin_icon {
+    height: 1.2rem;
+    width: 1.2rem;
+}
+
+.cities_img {
+    width: 12.5rem;
+    height: 18rem;
+    border-radius: 2rem;
+    margin-right: 3rem;
+
+    
+
+}
+
+.cities_text{
+    height: 18rem;
+    font-size: 1.2rem;  
+    
+   
+}
+.location{
+    letter-spacing: 6px;
+
+}
+
+.view_maps_link{
+    color:gray  ;
+}
+
+.horizontal-line {
+    display: block;
+    margin-top: 1em;
+    
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+    border-color: gray;
+    opacity: 10%;
+}
+
+.cities_paragraph{
+    width: 30rem; 
+    height: 10rem; 
+    overflow: auto;
+    border-radius: 0 !important;
+}
