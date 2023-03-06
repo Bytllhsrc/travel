@@ -14,11 +14,8 @@ function App() {
       <Post data={cityData} />
     )
 
-
   })
 
-
-  
 
   return (
     <div className="App">

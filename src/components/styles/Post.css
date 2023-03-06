@@ -52,13 +52,12 @@
 .horizontal-line {
     display: block;
     margin-top: 1em;
-    
     margin-left: auto;
     margin-right: auto;
     border-style: inset;
     border-width: 2px;
     border-color: gray;
-    opacity: 10%;
+    opacity: 15%;
 }
 
 .cities_paragraph{

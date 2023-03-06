@@ -2,19 +2,13 @@
 
 * {
     font-family: 'Inter', sans-serif;
-  }
-  
-  .footer_top_space{
-    border-radius: 0 !important;
-    background-color: #918E9B;
-    width: 55rem;
-    height: 3rem;
-  }
+  } 
 
 .footer{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 4rem;
     margin-bottom: 1rem;
     font-size: 2rem;
    
